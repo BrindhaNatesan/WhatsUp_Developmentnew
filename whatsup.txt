@@ -9,3 +9,7 @@
 5. Last seen profile configuration
 
 6. Hiding Last seen
+
+7. Adding audio call feature
+
+8. Adding video call feature
