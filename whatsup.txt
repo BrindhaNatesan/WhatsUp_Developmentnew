@@ -7,3 +7,5 @@
 4. download the audios and videos
 
 5. Last seen profile configuration
+
+6. Hiding Last seen
